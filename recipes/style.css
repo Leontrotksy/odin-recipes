@@ -15,8 +15,11 @@ h2{
     color:blue;
     font-weight:500;
 }
-ol, ul{
+ol,ul{
     background-color: black;
     color:red;
     font-size:medium;
+}
+li{
+    color:red;
 }
