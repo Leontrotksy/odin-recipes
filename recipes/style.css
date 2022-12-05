@@ -1,0 +1,22 @@
+h1{
+    color:red;
+    font-size: large;
+    font-weight:bold;
+}
+img{
+    width:200%;
+    height:auto;
+}
+h3{
+    color:blue;
+    font-weight:lighter;
+}
+h2{
+    color:blue;
+    font-weight:500;
+}
+ol, ul{
+    background-color: black;
+    color:black;
+    font-size:medium;
+}
